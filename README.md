@@ -1,2 +1,2 @@
 # datacontract-deserialization
-Data contract deserialization to prove correct answer to Stack Overflow answer
+Data contract deserialization solution for [Stack Overflow question](https://stackoverflow.com/questions/57313063/wcf-xml-deserialization-not-populating-array)
