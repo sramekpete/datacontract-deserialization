@@ -1,0 +1,15 @@
+﻿<!--<ProcessApplication>-->
+  <ApplicationRequestImpl xmlns="http://xyz">
+    <Application>
+      <Amount>50000.0</Amount>
+    </Application>
+    <Application_SAList>
+      <Application_SA>
+        <Security_Key>1588</Security_Key>
+      </Application_SA>
+      <Application_SA>
+        <Security_Key>123</Security_Key>
+      </Application_SA>
+    </Application_SAList>
+  </ApplicationRequestImpl>
+<!--</ProcessApplication>-->
