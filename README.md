@@ -1,2 +1,9 @@
-# datacontract-deserialization
-Data contract deserialization solution for [Stack Overflow question](https://stackoverflow.com/questions/57313063/wcf-xml-deserialization-not-populating-array)
+# Solution to Stack Overflow question
+
+Q: WCF XML deserialization not populating array
+
+A: The solution to the issue is to map array without using wrappering object.
+
+## Additional resources
+
+[Stack Overflow question](https://stackoverflow.com/questions/57313063/wcf-xml-deserialization-not-populating-array)
