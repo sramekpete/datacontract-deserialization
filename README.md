@@ -1,8 +1,6 @@
-# Solution to Stack Overflow question
+# WCF XML deserialization not populating array
 
-Q: WCF XML deserialization not populating array
-
-A: The solution to the issue is to map array without using wrappering object.
+The solution to the issue is to map array without using wrappering object.
 
 ## Additional resources
 
